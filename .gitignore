@@ -1,0 +1,10 @@
+
+
+# dependencies
+/servidor/node_modules
+/servidor/upload/*
+
+
+# System Files
+.DS_Store
+Thumbs.db
